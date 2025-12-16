@@ -69,6 +69,7 @@ CRUD completo, paginación, estilos personalizados y carga automática de notici
 ## 📫 Contacto
 
 📧 **Email:** migueldiasdg@gmail.com
+
 🔗 **LinkedIn:** https://www.linkedin.com/in/migueldiasdg
 
 <p align="center">
