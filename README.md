@@ -4,9 +4,10 @@
 
 <h1 align="center" style="color:#F97316;"Miguel Dias</h1>
   
-<p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desarrollador+.NET;Azure+Developer+AZ-204;Máster+en+Ciberseguridad;FP+Desarrollo+de+Aplicaciones+Web;Apasionado+por+crear+soluciones+modernas&center=true&width=550&height=50&color=F97316&size=24) />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desarrollador+.NET;Azure+Developer+AZ-204;Máster+en+Ciberseguridad;FP+Desarrollo+de+Aplicaciones+Web;Apasionado+por+crear+soluciones+modernas&center=true&width=550&height=50&color=F97316&size=24)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 
 ---
 
@@ -35,12 +36,6 @@ Me apasiona crear aplicaciones modernas, seguras y bien estructuradas, con un en
   <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-🟧-F97316?style=flat-square" />
 </p>
 
 ---
