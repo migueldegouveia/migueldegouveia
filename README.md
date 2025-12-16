@@ -1,5 +1,5 @@
 <!-- Banner superior -->
-<p align="center" color=F97316>
+<p align="center"&color=F97316>
   <img src="assets/banner.gif" width="100%" alt="Banner animado" />
 </p>
 
