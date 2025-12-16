@@ -1,59 +1,55 @@
-<!-- Banner superior -->
+<!-- Banner superior (puedes poner tu GIF aquí) -->
 <p align="center">
-  <img src="assets/banner.gif" width="100%" alt="Banner animado" />
+  <img src="assets/banner.gif" width="100%" alt="Banner" />
 </p>
 
-<h1 color=F97316 align="center"> Miguel Dias</h1>
+<h1 align="center" style="color:#F97316;"Miguel Dias</h1>
 
+<!-- Texto animado con varios mensajes -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollador+.NET+|+ASP.NET+Core+|+SQL+Server+|+Azure&center=true&width=500&height=45&color=F97316&cursorColor=F97316&&size=28&duration=3000" />
-</p>
-
-💻 Desarrollador .NET enfocado en C#, ASP.NET Core y SQL Server
-  
-☁️ Certificado AZ-204: Azure Developer Associate  
-
-🔐 Máster en Ciberseguridad  
-
-🌐 Estudiante de FP en Desarrollo de Aplicaciones Web  
-
-🚀 Apasionado por la tecnología, la automatización y el desarrollo seguro
-
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-<img src="https://img.shields.io/badge/C%23-F97316?style=for-the-badge&logo=csharp&logoColor=white">
-
-
+  <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollador+.NET;Azure+Developer+AZ-204;Máster+en+Ciberseguridad;FP+Desarrollo+de+Aplicaciones+Web;Apasionado+por+crear+soluciones+modernas&center=true&width=550&height=50&color=F97316&size=24" />
 </p>
 
 ---
 
 ## 🧡 Sobre mí
 
-Soy desarrollador especializado en tecnologías Microsoft.  
-Me encanta trabajar con:
+Soy un desarrollador especializado en tecnologías Microsoft, con experiencia en:
 
-- ASP.NET Core MVC  
-- C# y Entity Framework Core  
-- SQL Server  
-- Azure (App Service, WebJobs, automatización)  
-- Integración de APIs y automatización de procesos  
+💻 Desarrollador .NET enfocado en C#, ASP.NET Core y SQL Server  
+☁️ Certificado AZ-204: Azure Developer Associate  
+🔐 Máster en Ciberseguridad  
+🌐 Estudiante de FP en Desarrollo de Aplicaciones Web  
+🚀 Apasionado por la tecnología, la automatización y el desarrollo seguro
 
-Me gusta crear proyectos bien estructurados, documentados y fáciles de mantener.  
-Actualmente sigo ampliando mis conocimientos en arquitectura de software y buenas prácticas.
+Me apasiona crear aplicaciones modernas, seguras y bien estructuradas, con un enfoque en buenas prácticas y arquitectura limpia.
 
 ---
 
 ## 🔥 Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,visualstudio,github,git,html,css,bootstrap,sqlserver" />
+  <img src="https://img.shields.io/badge/C%23-F97316?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-F97316?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-F97316?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## 🟧 Proyecto destacado
+<p align="center">
+  <img src="https://img.shields.io/badge/-🟧-F97316?style=flat-square" />
+</p>
 
-### Noticias WIRED  
+---
+
+## 🚀 Proyecto destacado
+
+### 📰 Noticias WIRED  
 Aplicación ASP.NET MVC + importador RSS en consola.  
 CRUD completo, paginación, estilos personalizados y carga automática de noticias desde un feed RSS.
 
@@ -61,27 +57,33 @@ CRUD completo, paginación, estilos personalizados y carga automática de notici
   <img src="assets/noticiaswired.gif" width="80%" alt="Demo Noticias Wired" />
 </p>
 
-**Repositorio:** https://github.com/migueldegouveia/NoticiasWired
+🔗 **Repositorio:** https://github.com/migueldegouveia/NoticiasWired
 
 ---
 
-## Estadísticas de GitHub
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=migueldegouveia&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueldegouveia&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://img.shields.io/badge/-🟧-F97316?style=flat-square" />
 </p>
 
 ---
 
-## Contacto
-
-**Email:** migueldiasdg@gmail.com
-
-**LinkedIn:** https://www.linkedin.com/in/migueldiasdg
+## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="[assets/wave.gif](https://imgs.search.brave.com/0-wYbd_o6thFuBQwlFn74HuShsyQpyOReWOSzfwRnwQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS8x/ODczODFhMGVhM2M5/ZDU1ZjA5NWUyOWJh/YTg5NmE0N2FhNmI1/M2Q0MzNmNjZiNTEx/MzQ2YjRhNzBmNTBj/N2I1LzY4NzQ3NDcw/NzMzYTJmMmY2ZDY1/NjQ2OTYxMzIyZTY3/Njk3MDY4NzkyZTYz/NmY2ZDJmNmQ2NTY0/Njk2MTJmNzYzMTJl/NTkzMjZjNmI1MDU0/NjMzNTRkNDc0OTMz/NGU2YTQ1Nzg0ZTZk/NGQzNTVhMzI3MzM1/NWE1NDRhNzg2NTQ4/NDEzNTYzNDg2NzMz/NWE0NDY4NzM1OTZh/NDEzMTYzNDQ1Njc2/NGU1Nzc0NzU2NTZk/Njg2ZjRlNmU0MjMw/NjU0NzM5MzI2MjU4/NTI2ZDY0Nzk1YTZj/NjM0NDMxMzI0ZDU2/Mzk3MDYyNmU1MjZj/NjM2ZDM1Njg2MjQ2/Mzk2ZTYxNTc1YTY2/NTk2ZTZjNjY2MTU3/NTE2ZDU5MzM1MTM5/NWE3NzJmMzczODU4/NDM0NjQyNDc0ZjZj/NTMzNjZiNjU1OTMx/NDI2OTZjMmY2NzY5/NzA2ODc5MmU2NzY5/NjY)" width="120" alt="Gracias" />
+  <img src="https://github-readme-stats.vercel.app/api?username=migueldegouveia&show_icons=true&theme=tokyonight&title_color=F97316&icon_color=F97316" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueldegouveia&layout=compact&theme=tokyonight&title_color=F97316" height="150" />
 </p>
 
-<p align="center"><b>¡Gracias por visitar mi perfil!</b></p>
+---
+
+## 📫 Contacto
+
+📧 **Email:** migueldiasdg@gmail.com
+🔗 **LinkedIn:** https://www.linkedin.com/in/migueldiasdg
+
+<p align="center">
+  <img src="assets/wave.gif" width="120" alt="Gracias" />
+</p>
+
+<p align="center"><b style="color:#F97316;">¡Gracias por visitar mi perfil!</b></p>
+
