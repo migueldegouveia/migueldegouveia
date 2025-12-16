@@ -5,14 +5,23 @@
 
 <h1 align="center">👋 Miguel Dias</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desarrollador+.NET+|+ASP.NET+Core+|+SQL+Server+|+Azure)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollador+.NET+|+ASP.NET+Core+|+SQL+Server+|+Azure;Apasionado+por+la+Ciberseguridad&center=true&width=500&height=45&color=F97316" />
+</p>
+
+
 
 <p align="center">
-💻 Desarrollador .NET enfocado en C#, ASP.NET Core y SQL Server  
+💻 Desarrollador .NET enfocado en C#, ASP.NET Core y SQL Server
+  
 ☁️ Certificado AZ-204: Azure Developer Associate  
+
 🔐 Máster en Ciberseguridad  
+
 🌐 Estudiante de FP en Desarrollo de Aplicaciones Web  
+
 🚀 Apasionado por la tecnología, la automatización y el desarrollo seguro
+
 </p>
 
 ---
