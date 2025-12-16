@@ -1,6 +1,6 @@
 <!-- Banner superior (puedes poner tu GIF aquí) -->
 <p align="center">
-  <img src="assets/banner.gif" width="100%" alt="Banner" />
+  <img src="assets/banner.png" width="100%" alt="Banner" />
 </p>
 
 <h1 align="center" style="color:#F97316;"Miguel Dias</h1>
