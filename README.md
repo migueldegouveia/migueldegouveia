@@ -3,7 +3,7 @@
   <img src="assets/banner.gif" width="100%" alt="Banner animado" />
 </p>
 
-<h1 align="center" color=F97316> Miguel Dias</h1>
+<h1 color=F97316 align="center"> Miguel Dias</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollador+.NET+|+ASP.NET+Core+|+SQL+Server+|+Azure&center=true&width=500&height=45&color=F97316&cursorColor=F97316&&size=28&duration=3000" />
