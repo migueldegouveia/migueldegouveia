@@ -3,7 +3,7 @@
   <img src="assets/banner.gif" width="100%" alt="Banner animado" />
 </p>
 
-<h1 align="center">👋 ¡Hola, soy Miguel Dias!</h1>
+<h1 align="center">¡Hola, soy Miguel Dias!</h1>
 
 <p align="center">
   <b>Desarrollador .NET | ASP.NET Core | SQL Server | Azure</b><br>
