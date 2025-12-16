@@ -61,11 +61,12 @@ CRUD completo, paginación, estilos personalizados y carga automática de notici
 
 ## Contacto
 
-**Email:** migueldiasdg@gmail.com 
+**Email:** migueldiasdg@gmail.com
+
 **LinkedIn:** https://www.linkedin.com/in/migueldiasdg
 
 <p align="center">
-  <img src="assets/wave.gif" width="120" alt="Gracias" />
+  <img src="[assets/wave.gif](https://imgs.search.brave.com/0-wYbd_o6thFuBQwlFn74HuShsyQpyOReWOSzfwRnwQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS8x/ODczODFhMGVhM2M5/ZDU1ZjA5NWUyOWJh/YTg5NmE0N2FhNmI1/M2Q0MzNmNjZiNTEx/MzQ2YjRhNzBmNTBj/N2I1LzY4NzQ3NDcw/NzMzYTJmMmY2ZDY1/NjQ2OTYxMzIyZTY3/Njk3MDY4NzkyZTYz/NmY2ZDJmNmQ2NTY0/Njk2MTJmNzYzMTJl/NTkzMjZjNmI1MDU0/NjMzNTRkNDc0OTMz/NGU2YTQ1Nzg0ZTZk/NGQzNTVhMzI3MzM1/NWE1NDRhNzg2NTQ4/NDEzNTYzNDg2NzMz/NWE0NDY4NzM1OTZh/NDEzMTYzNDQ1Njc2/NGU1Nzc0NzU2NTZk/Njg2ZjRlNmU0MjMw/NjU0NzM5MzI2MjU4/NTI2ZDY0Nzk1YTZj/NjM0NDMxMzI0ZDU2/Mzk3MDYyNmU1MjZj/NjM2ZDM1Njg2MjQ2/Mzk2ZTYxNTc1YTY2/NTk2ZTZjNjY2MTU3/NTE2ZDU5MzM1MTM5/NWE3NzJmMzczODU4/NDM0NjQyNDc0ZjZj/NTMzNjZiNjU1OTMx/NDI2OTZjMmY2NzY5/NzA2ODc5MmU2NzY5/NjY)" width="120" alt="Gracias" />
 </p>
 
 <p align="center"><b>¡Gracias por visitar mi perfil!</b></p>
