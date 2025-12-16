@@ -6,9 +6,9 @@
 <h1 align="center">👋 Miguel Dias</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollador+ASP.NET+Core+|+SQL+Server+|+Azure;Apasionado+por+la+Ciberseguridad&center=true&width=500&height=60&color=F97316" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollador+.NET+|+ASP.NET+Core+|+SQL+Server+|+Azure&center=true&width=500&height=45&color=F97316&cursorColor=F97316&&size=28&duration=3000" />
 </p>
-  
+
 💻 Desarrollador .NET enfocado en C#, ASP.NET Core y SQL Server
   
 ☁️ Certificado AZ-204: Azure Developer Associate  
@@ -23,7 +23,7 @@
 
 ---
 
-## Sobre mí
+## 🧡 Sobre mí
 
 Soy desarrollador especializado en tecnologías Microsoft.  
 Me encanta trabajar con:
@@ -39,7 +39,7 @@ Actualmente sigo ampliando mis conocimientos en arquitectura de software y buena
 
 ---
 
-## Tecnologías y herramientas
+## 🔥 Tecnologías y herramientas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,visualstudio,github,git,html,css,bootstrap,sqlserver" />
@@ -47,7 +47,7 @@ Actualmente sigo ampliando mis conocimientos en arquitectura de software y buena
 
 ---
 
-## Proyecto destacado
+## 🟧 Proyecto destacado
 
 ### Noticias WIRED  
 Aplicación ASP.NET MVC + importador RSS en consola.  
