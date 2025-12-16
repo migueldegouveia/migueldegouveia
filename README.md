@@ -51,12 +51,6 @@ CRUD completo, paginación, estilos personalizados y carga automática de notici
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-🟧-F97316?style=flat-square" />
-</p>
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
