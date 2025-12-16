@@ -1,13 +1,11 @@
-<!-- Banner superior (puedes poner tu GIF aquí) -->
 <p align="center">
   <img src="assets/banner.png" width="100%" alt="Banner" />
 </p>
 
 <h1 align="center" style="color:#F97316;"Miguel Dias</h1>
-
-<!-- Texto animado con varios mensajes -->
+  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollador+.NET;Azure+Developer+AZ-204;Máster+en+Ciberseguridad;FP+Desarrollo+de+Aplicaciones+Web;Apasionado+por+crear+soluciones+modernas&center=true&width=550&height=50&color=F97316&size=24" />
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desarrollador+.NET;Azure+Developer+AZ-204;Máster+en+Ciberseguridad;FP+Desarrollo+de+Aplicaciones+Web;Apasionado+por+crear+soluciones+modernas&center=true&width=550&height=50&color=F97316&size=24) />
 </p>
 
 ---
